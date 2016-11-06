@@ -23,3 +23,12 @@ Use `git status` to list all new or modified files that haven't yet been committ
 - Slovakia
 * Rumunia
 * Moldova
+
+## Let's try a task list: ##
+
+- [x] create repo
+- [x] add file
+- [x] add commit
+- [ ] make a change
+- [ ] finish home work
+
